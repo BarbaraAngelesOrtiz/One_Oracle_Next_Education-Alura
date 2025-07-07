@@ -30,7 +30,7 @@ Prácticas enfocadas en el proceso ETL usando Python:
 ---
 
 ### 📊 Modelado de Datos con Python  
-📂 [`Modelado_datos_python`](./Modelado_de_datos_con_Python)  
+📂 [`Modelado_datos_python`](./Modelado_datos_python)  
 Ejercicios de análisis exploratorio, correlaciones y visualizaciones estadísticas:
 - EDA (Exploratory Data Analysis)
 - Hipótesis y agrupamientos
